@@ -1,6 +1,6 @@
 # Curso de Python - Suzano
 
-Este foi o primeiro curso de Python que fiz na minha vida. Foi um curso fornecido pela empresa Suzano, que fazia parte de um processo seletivo para contratação. Nele tive meus primeiros contatos com:
+Este foi o primeiro curso de Python que fiz na minha vida. Foi um curso fornecido pela empresa [Suzano](https://www.suzano.com.br/), que fazia parte de um processo seletivo para contratação. Nele tive meus primeiros contatos com:
 
 - Tipos de variáveis;
 - Operadores;
