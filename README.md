@@ -1,6 +1,7 @@
 # Curso de Python - Suzano
 
-Curso de Python fornecido pela empresa Suzano, nele pude aprender:
+Este foi o primeiro curso de Python que fiz na minha vida. Foi um curso fornecido pela empresa Suzano, que fazia parte de um processo seletivo com possível contratação.
+Nele pude aprender:
 
 - Tipos de variáveis;
 - Operadores;
